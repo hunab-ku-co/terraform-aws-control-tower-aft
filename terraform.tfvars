@@ -1,0 +1,7 @@
+ct_management_account_id    = "571206916952"
+log_archive_account_id      = "955162487318"
+audit_account_id            = "452052019546"
+aft_management_account_id   = "728927254136"
+github_username             = "hunab-ku-co"
+ct_home_region              = "eu-west-1"
+tf_backend_secondary_region = "eu-north-1"
